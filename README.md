@@ -14,7 +14,7 @@ Extras: React-To-Print
 
 **Deployed On:**
 
-![GitHub](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-00C7B7?style=for-the-badge&logo=github&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
 ![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](./webpage.png)
@@ -25,9 +25,6 @@ Extras: React-To-Print
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-uchitkar-44757020a/)
 
-© 2022 Jigar Sable
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+© 2023 Aman Uchitkar
