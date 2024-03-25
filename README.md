@@ -14,7 +14,7 @@ Extras: React-To-Print
 
 **Deployed On:**
 
-![GitHub](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-484848?style=for-the-badge&logo=github&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
 ![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](./webpage.png)
