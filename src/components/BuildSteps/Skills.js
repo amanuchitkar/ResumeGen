@@ -51,7 +51,7 @@ const Skills = () => {
                         variant='solid'
                         colorScheme='purple'
                         m={0.5}
-                        key={skill.id}
+                        keys={skill.id}
                     >
                         <TagLabel>{skill.name}</TagLabel>
                         <TagCloseButton onClick={() => deleteSkill(skill.id)} />
